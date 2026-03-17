@@ -1,10 +1,12 @@
-Tufte CSS
+Tufte CSS standalone
 =========
 Edward Tufte uses a distinctive style in his handouts: simple, with well-set
 typography, extensive sidenotes, and tight integration of graphics and
 charts. `tufte-css` brings that style to HTML documents.
 
 The idea of this fork came as a result of something that obstructed me from using the original version straight-away. Tufte operates on the `<body>` making it hard to add blocks of content that will not be affected by a specific margin's handling Tufte CSS introduces.
+
+It's a work in progress.
 
 ## Origin
 
